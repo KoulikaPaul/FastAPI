@@ -1,0 +1,43 @@
+{
+    "P001": {
+        "name": "Ananya Verma",
+        "city": "Guwahati",
+        "age": 28,
+        "gender": "female",
+        "height": 1.65,
+        "weight": 90,
+        "bmi": 33.06,
+        "verdict": "Obese"
+    },
+    "P002": {
+        "name": "Sheela Gupta",
+        "city": "Kolkata",
+        "age": 35,
+        "gender": "female",
+        "height": 1.75,
+        "weight": 100,
+        "bmi": 32.65,
+        "verdict": "Obese"
+    },
+    "P004": {
+        "name": "Arjun Verma",
+        "city": "Mumbai",
+        "age": 40,
+        "gender": "male",
+        "height": 1.8,
+        "weight": 90,
+        "bmi": 27.78,
+        "verdict": "Normal"
+    },
+    "P005": {
+        "name": "Neha Sinha",
+        "city": "Kolkata",
+        "age": 30,
+        "gender": "female",
+        "height": 1.55,
+        "weight": 75,
+        "bmi": 31.22,
+        "verdict": "Obese"
+    },
+    "P010": "{\"name\":\"string\",\"city\":\"string\",\"age\":1,\"gender\":\"male\",\"height\":1.0,\"weight\":1.0,\"bmi\":1.0,\"verdict\":\"underweight\"}"
+}
